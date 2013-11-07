@@ -1,2 +1,2 @@
-mocho_frontend
+mochi_frontend
 ==============
